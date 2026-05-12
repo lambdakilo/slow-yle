@@ -1,0 +1,9 @@
+is mv2 or mv3 the standard for firefox extensions now? last time i tried to make a wasm extension it required mv2 cuz much of the documentation was only written for mv3 anyways. im going to create an extension that removes shorts from this one site. which one should i use?
+
+whats the point of id in mozilla docs
+
+how to stop video from autoplaying. <feed html of yle.fi autoplaying video> i also want it to play after ive hit play
+
+theres also this sanapyramidi block which i want to completely nuke from the website <paste outer html of a sanapyramidi block>
+
+this is excellent. lets nuke the shorts block also <paste outer html of a shorts block>
